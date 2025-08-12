@@ -1,3 +1,8 @@
-<center><h1>Привіт!</h1></center>
-</hr>
-<center><span>Ласкаво прошу до свого профілю в GitHub!</br>Я - progwi0. Музикант і розробник <a href="https://progwi0.github.io/progwilinux">Progwilinux</a>.</br>Також я роблю проєкти як Kreka, Fifi, ProgwiDE та інші!</br>Якщо хочеш, можеш заглянути в мій профіль на YouTube!</span></center>
+### Привіт!
+
+Ласкаво прошу до свого профілю в GitHub!
+
+Я - progwi0, музикант і розробник Progwilinux.
+Також у мене є інші проєкти, як [Kreka](https://github.com/progwi0/kreka), [Fifi](https://github.com/progwi0/fifi), [ProgwiDE](https://github.com/progwi0/progwide) та інші.
+
+Також у мене є YouTube канал, можеш заглянути!
