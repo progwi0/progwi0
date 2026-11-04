@@ -31,6 +31,7 @@
   <img alt="Ruby" src="https://img.shields.io/badge/-%20Ruby%20-%20red?style=plastic&logo=ruby">
   <img alt="Bash" src="https://img.shields.io/badge/-%20Bash%20-%20black?style=plastic&logo=gnubash">
   <img alt="HTML" src="https://img.shields.io/badge/-%20HTML%20-%20white?style=plastic&logo=html5">
+  <img alt="CSS" src="https://img.shields.io/badge/-%20CSS%20-%20blue?style=plastic&logo=css&logoColor=white">
 </div>
 
 <div align="center">
