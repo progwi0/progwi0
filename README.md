@@ -18,8 +18,8 @@
 
   | Проект. | Что он из себя представляет. |
   | :---: | :---: |
-  | Progwilinux | дистрибутив Linux, основанный на пакетах Arch Linux. |
-  | Kreka | мобильный веб-браузер. |
+  | <img src="https://raw.githubusercontent.com/progwi0/progwilinux/site/progwiuslinux.png" width="15"> Progwilinux | дистрибутив Linux, основанный на пакетах Arch Linux. |
+  | <img src="https://raw.githubusercontent.com/progwi0/progwi0.github.io/refs/heads/main/img/kreka26.png" width="15"> Kreka | мобильный веб-браузер. |
 
 </div>
 
